@@ -1,0 +1,2002 @@
+[
+  {
+    "id": 1,
+    "title": "The Great Gatsby",
+    "author": "F. Scott Fitzgerald",
+    "price": 12.99,
+    "category": "Fiction",
+    "description": "Classic American novel set in the Jazz Age, exploring themes of wealth and love.",
+    "stock": 50,
+    "image": "\ud83d\udcd5"
+  },
+  {
+    "id": 2,
+    "title": "To Kill a Mockingbird",
+    "author": "Harper Lee",
+    "price": 14.99,
+    "category": "Fiction",
+    "description": "Gripping tale of racial injustice and childhood innocence.",
+    "stock": 45,
+    "image": "\ud83d\udcd7"
+  },
+  {
+    "id": 3,
+    "title": "The Catcher in the Rye",
+    "author": "J.D. Salinger",
+    "price": 13.49,
+    "category": "Fiction",
+    "description": "Teenage rebellion and alienation in post-war America.",
+    "stock": 38,
+    "image": "\ud83d\udcd8"
+  },
+  {
+    "id": 4,
+    "title": "Beloved",
+    "author": "Toni Morrison",
+    "price": 15.99,
+    "category": "Fiction",
+    "description": "Powerful novel about the lasting effects of slavery.",
+    "stock": 42,
+    "image": "\ud83d\udcd9"
+  },
+  {
+    "id": 5,
+    "title": "The Road",
+    "author": "Cormac McCarthy",
+    "price": 14.49,
+    "category": "Fiction",
+    "description": "Post-apocalyptic tale of father and son.",
+    "stock": 35,
+    "image": "\ud83d\udcd5"
+  },
+  {
+    "id": 6,
+    "title": "One Hundred Years of Solitude",
+    "author": "Gabriel Garc\u00eda M\u00e1rquez",
+    "price": 16.99,
+    "category": "Fiction",
+    "description": "Magical realism masterpiece.",
+    "stock": 40,
+    "image": "\ud83d\udcd7"
+  },
+  {
+    "id": 7,
+    "title": "The Kite Runner",
+    "author": "Khaled Hosseini",
+    "price": 14.99,
+    "category": "Fiction",
+    "description": "Friendship and redemption in Afghanistan.",
+    "stock": 48,
+    "image": "\ud83d\udcd8"
+  },
+  {
+    "id": 8,
+    "title": "Life of Pi",
+    "author": "Yann Martel",
+    "price": 13.99,
+    "category": "Fiction",
+    "description": "Boy survives on lifeboat with tiger.",
+    "stock": 44,
+    "image": "\ud83d\udcd9"
+  },
+  {
+    "id": 9,
+    "title": "The Book Thief",
+    "author": "Markus Zusak",
+    "price": 15.49,
+    "category": "Fiction",
+    "description": "Girl steals books during WWII.",
+    "stock": 52,
+    "image": "\ud83d\udcd5"
+  },
+  {
+    "id": 10,
+    "title": "Brave New World",
+    "author": "Aldous Huxley",
+    "price": 13.99,
+    "category": "Fiction",
+    "description": "Dystopian technological society.",
+    "stock": 41,
+    "image": "\ud83d\udcd7"
+  },
+  {
+    "id": 11,
+    "title": "The Color Purple",
+    "author": "Alice Walker",
+    "price": 14.49,
+    "category": "Fiction",
+    "description": "Black woman in American South.",
+    "stock": 39,
+    "image": "\ud83d\udcd8"
+  },
+  {
+    "id": 12,
+    "title": "Atonement",
+    "author": "Ian McEwan",
+    "price": 15.99,
+    "category": "Fiction",
+    "description": "Love, war, and consequences.",
+    "stock": 37,
+    "image": "\ud83d\udcd9"
+  },
+  {
+    "id": 13,
+    "title": "The Remains of the Day",
+    "author": "Kazuo Ishiguro",
+    "price": 13.99,
+    "category": "Fiction",
+    "description": "Butler reflects on life.",
+    "stock": 43,
+    "image": "\ud83d\udcd5"
+  },
+  {
+    "id": 14,
+    "title": "Middlesex",
+    "author": "Jeffrey Eugenides",
+    "price": 16.49,
+    "category": "Fiction",
+    "description": "Family saga exploring identity.",
+    "stock": 38,
+    "image": "\ud83d\udcd7"
+  },
+  {
+    "id": 15,
+    "title": "The Poisonwood Bible",
+    "author": "Barbara Kingsolver",
+    "price": 15.99,
+    "category": "Fiction",
+    "description": "Missionary family in Congo.",
+    "stock": 42,
+    "image": "\ud83d\udcd8"
+  },
+  {
+    "id": 16,
+    "title": "The Secret History",
+    "author": "Donna Tartt",
+    "price": 17.99,
+    "category": "Fiction",
+    "description": "Dark academia thriller.",
+    "stock": 55,
+    "image": "\ud83d\udcd9"
+  },
+  {
+    "id": 17,
+    "title": "White Teeth",
+    "author": "Zadie Smith",
+    "price": 14.99,
+    "category": "Fiction",
+    "description": "Immigrant families in London.",
+    "stock": 40,
+    "image": "\ud83d\udcd5"
+  },
+  {
+    "id": 18,
+    "title": "The Goldfinch",
+    "author": "Donna Tartt",
+    "price": 18.99,
+    "category": "Fiction",
+    "description": "Coming-of-age with stolen painting.",
+    "stock": 47,
+    "image": "\ud83d\udcd7"
+  },
+  {
+    "id": 19,
+    "title": "All the Light We Cannot See",
+    "author": "Anthony Doerr",
+    "price": 16.99,
+    "category": "Fiction",
+    "description": "WWII French girl and German boy.",
+    "stock": 53,
+    "image": "\ud83d\udcd8"
+  },
+  {
+    "id": 20,
+    "title": "The Shadow of the Wind",
+    "author": "Carlos Ruiz Zaf\u00f3n",
+    "price": 15.49,
+    "category": "Fiction",
+    "description": "Gothic mystery in Barcelona.",
+    "stock": 44,
+    "image": "\ud83d\udcd9"
+  },
+  {
+    "id": 21,
+    "title": "The Night Circus",
+    "author": "Erin Morgenstern",
+    "price": 14.99,
+    "category": "Fiction",
+    "description": "Magical mysterious circus.",
+    "stock": 49,
+    "image": "\ud83d\udcd5"
+  },
+  {
+    "id": 22,
+    "title": "Cloud Atlas",
+    "author": "David Mitchell",
+    "price": 17.49,
+    "category": "Fiction",
+    "description": "Six interconnected stories.",
+    "stock": 41,
+    "image": "\ud83d\udcd7"
+  },
+  {
+    "id": 23,
+    "title": "The Amazing Adventures of Kavalier & Clay",
+    "author": "Michael Chabon",
+    "price": 16.99,
+    "category": "Fiction",
+    "description": "Comic book creators.",
+    "stock": 38,
+    "image": "\ud83d\udcd8"
+  },
+  {
+    "id": 24,
+    "title": "Never Let Me Go",
+    "author": "Kazuo Ishiguro",
+    "price": 14.99,
+    "category": "Fiction",
+    "description": "Love and identity story.",
+    "stock": 45,
+    "image": "\ud83d\udcd9"
+  },
+  {
+    "id": 25,
+    "title": "Station Eleven",
+    "author": "Emily St. John Mandel",
+    "price": 14.99,
+    "category": "Fiction",
+    "description": "Post-apocalyptic theater troupe.",
+    "stock": 50,
+    "image": "\ud83d\udcd5"
+  },
+  {
+    "id": 26,
+    "title": "The Underground Railroad",
+    "author": "Colson Whitehead",
+    "price": 16.49,
+    "category": "Fiction",
+    "description": "Reimagined Underground Railroad.",
+    "stock": 42,
+    "image": "\ud83d\udcd7"
+  },
+  {
+    "id": 27,
+    "title": "A Little Life",
+    "author": "Hanya Yanagihara",
+    "price": 18.99,
+    "category": "Fiction",
+    "description": "Friendship and trauma.",
+    "stock": 39,
+    "image": "\ud83d\udcd8"
+  },
+  {
+    "id": 28,
+    "title": "The Overstory",
+    "author": "Richard Powers",
+    "price": 17.99,
+    "category": "Fiction",
+    "description": "Stories about trees.",
+    "stock": 37,
+    "image": "\ud83d\udcd9"
+  },
+  {
+    "id": 29,
+    "title": "Americanah",
+    "author": "Chimamanda Ngozi Adichie",
+    "price": 15.99,
+    "category": "Fiction",
+    "description": "Love, race, and identity.",
+    "stock": 46,
+    "image": "\ud83d\udcd5"
+  },
+  {
+    "id": 30,
+    "title": "The Brief Wondrous Life of Oscar Wao",
+    "author": "Junot D\u00edaz",
+    "price": 14.99,
+    "category": "Fiction",
+    "description": "Dominican-American family.",
+    "stock": 43,
+    "image": "\ud83d\udcd7"
+  },
+  {
+    "id": 31,
+    "title": "The Corrections",
+    "author": "Jonathan Franzen",
+    "price": 16.99,
+    "category": "Fiction",
+    "description": "Darkly comic family.",
+    "stock": 40,
+    "image": "\ud83d\udcd8"
+  },
+  {
+    "id": 32,
+    "title": "Everything I Never Told You",
+    "author": "Celeste Ng",
+    "price": 13.99,
+    "category": "Fiction",
+    "description": "Family mystery.",
+    "stock": 48,
+    "image": "\ud83d\udcd9"
+  },
+  {
+    "id": 33,
+    "title": "The Nickel Boys",
+    "author": "Colson Whitehead",
+    "price": 15.49,
+    "category": "Fiction",
+    "description": "Reform school story.",
+    "stock": 41,
+    "image": "\ud83d\udcd5"
+  },
+  {
+    "id": 34,
+    "title": "Lincoln in the Bardo",
+    "author": "George Saunders",
+    "price": 16.99,
+    "category": "Fiction",
+    "description": "Experimental Lincoln novel.",
+    "stock": 35,
+    "image": "\ud83d\udcd7"
+  },
+  {
+    "id": 35,
+    "title": "The Sympathizer",
+    "author": "Viet Thanh Nguyen",
+    "price": 15.99,
+    "category": "Fiction",
+    "description": "Vietnam War spy thriller.",
+    "stock": 44,
+    "image": "\ud83d\udcd8"
+  },
+  {
+    "id": 36,
+    "title": "There There",
+    "author": "Tommy Orange",
+    "price": 14.99,
+    "category": "Fiction",
+    "description": "Urban Native Americans.",
+    "stock": 47,
+    "image": "\ud83d\udcd9"
+  },
+  {
+    "id": 37,
+    "title": "The Vanishing Half",
+    "author": "Brit Bennett",
+    "price": 16.99,
+    "category": "Fiction",
+    "description": "Twin sisters, different identities.",
+    "stock": 52,
+    "image": "\ud83d\udcd5"
+  },
+  {
+    "id": 38,
+    "title": "Normal People",
+    "author": "Sally Rooney",
+    "price": 14.49,
+    "category": "Fiction",
+    "description": "Modern Irish love story.",
+    "stock": 56,
+    "image": "\ud83d\udcd7"
+  },
+  {
+    "id": 39,
+    "title": "The Handmaid's Tale",
+    "author": "Margaret Atwood",
+    "price": 14.99,
+    "category": "Fiction",
+    "description": "Dystopian totalitarian society.",
+    "stock": 46,
+    "image": "\ud83d\udcd8"
+  },
+  {
+    "id": 40,
+    "title": "Little Fires Everywhere",
+    "author": "Celeste Ng",
+    "price": 15.99,
+    "category": "Fiction",
+    "description": "Suburban family secrets.",
+    "stock": 49,
+    "image": "\ud83d\udcd9"
+  },
+  {
+    "id": 41,
+    "title": "1984",
+    "author": "George Orwell",
+    "price": 13.99,
+    "category": "Science Fiction",
+    "description": "Dystopian totalitarianism novel.",
+    "stock": 60,
+    "image": "\ud83d\udcd5"
+  },
+  {
+    "id": 42,
+    "title": "Dune",
+    "author": "Frank Herbert",
+    "price": 18.99,
+    "category": "Science Fiction",
+    "description": "Epic saga on desert planet.",
+    "stock": 52,
+    "image": "\ud83d\udcd7"
+  },
+  {
+    "id": 43,
+    "title": "Neuromancer",
+    "author": "William Gibson",
+    "price": 14.99,
+    "category": "Science Fiction",
+    "description": "Groundbreaking cyberpunk.",
+    "stock": 44,
+    "image": "\ud83d\udcd8"
+  },
+  {
+    "id": 44,
+    "title": "The Left Hand of Darkness",
+    "author": "Ursula K. Le Guin",
+    "price": 13.99,
+    "category": "Science Fiction",
+    "description": "Gender exploration alien world.",
+    "stock": 40,
+    "image": "\ud83d\udcd9"
+  },
+  {
+    "id": 45,
+    "title": "Foundation",
+    "author": "Isaac Asimov",
+    "price": 15.49,
+    "category": "Science Fiction",
+    "description": "Galactic empire saga.",
+    "stock": 48,
+    "image": "\ud83d\udcd5"
+  },
+  {
+    "id": 46,
+    "title": "Snow Crash",
+    "author": "Neal Stephenson",
+    "price": 16.99,
+    "category": "Science Fiction",
+    "description": "Cyberpunk metaverse.",
+    "stock": 46,
+    "image": "\ud83d\udcd7"
+  },
+  {
+    "id": 47,
+    "title": "The Martian",
+    "author": "Andy Weir",
+    "price": 14.99,
+    "category": "Science Fiction",
+    "description": "Astronaut stranded on Mars.",
+    "stock": 65,
+    "image": "\ud83d\udcd8"
+  },
+  {
+    "id": 48,
+    "title": "Ender's Game",
+    "author": "Orson Scott Card",
+    "price": 15.99,
+    "category": "Science Fiction",
+    "description": "Child genius interstellar war.",
+    "stock": 58,
+    "image": "\ud83d\udcd9"
+  },
+  {
+    "id": 49,
+    "title": "The Three-Body Problem",
+    "author": "Liu Cixin",
+    "price": 16.49,
+    "category": "Science Fiction",
+    "description": "First contact with aliens.",
+    "stock": 50,
+    "image": "\ud83d\udcd5"
+  },
+  {
+    "id": 50,
+    "title": "Hyperion",
+    "author": "Dan Simmons",
+    "price": 17.99,
+    "category": "Science Fiction",
+    "description": "Space opera epic.",
+    "stock": 43,
+    "image": "\ud83d\udcd7"
+  },
+  {
+    "id": 51,
+    "title": "Do Androids Dream of Electric Sheep?",
+    "author": "Philip K. Dick",
+    "price": 13.99,
+    "category": "Science Fiction",
+    "description": "Bounty hunter tracks androids.",
+    "stock": 47,
+    "image": "\ud83d\udcd8"
+  },
+  {
+    "id": 52,
+    "title": "The Dispossessed",
+    "author": "Ursula K. Le Guin",
+    "price": 14.99,
+    "category": "Science Fiction",
+    "description": "Anarchist physicist.",
+    "stock": 41,
+    "image": "\ud83d\udcd9"
+  },
+  {
+    "id": 53,
+    "title": "Childhood's End",
+    "author": "Arthur C. Clarke",
+    "price": 13.49,
+    "category": "Science Fiction",
+    "description": "Alien overlords bring peace.",
+    "stock": 39,
+    "image": "\ud83d\udcd5"
+  },
+  {
+    "id": 54,
+    "title": "Fahrenheit 451",
+    "author": "Ray Bradbury",
+    "price": 12.99,
+    "category": "Science Fiction",
+    "description": "Firemen burn books.",
+    "stock": 54,
+    "image": "\ud83d\udcd7"
+  },
+  {
+    "id": 55,
+    "title": "The Forever War",
+    "author": "Joe Haldeman",
+    "price": 14.99,
+    "category": "Science Fiction",
+    "description": "Time dilation in war.",
+    "stock": 42,
+    "image": "\ud83d\udcd8"
+  },
+  {
+    "id": 56,
+    "title": "Ringworld",
+    "author": "Larry Niven",
+    "price": 15.99,
+    "category": "Science Fiction",
+    "description": "Artificial ring world.",
+    "stock": 38,
+    "image": "\ud83d\udcd9"
+  },
+  {
+    "id": 57,
+    "title": "The Moon is a Harsh Mistress",
+    "author": "Robert A. Heinlein",
+    "price": 14.49,
+    "category": "Science Fiction",
+    "description": "Lunar colony revolt.",
+    "stock": 40,
+    "image": "\ud83d\udcd5"
+  },
+  {
+    "id": 58,
+    "title": "Stranger in a Strange Land",
+    "author": "Robert A. Heinlein",
+    "price": 15.49,
+    "category": "Science Fiction",
+    "description": "Human raised on Mars.",
+    "stock": 44,
+    "image": "\ud83d\udcd7"
+  },
+  {
+    "id": 59,
+    "title": "A Canticle for Leibowitz",
+    "author": "Walter M. Miller Jr.",
+    "price": 13.99,
+    "category": "Science Fiction",
+    "description": "Post-apocalyptic monks.",
+    "stock": 36,
+    "image": "\ud83d\udcd8"
+  },
+  {
+    "id": 60,
+    "title": "The Time Machine",
+    "author": "H.G. Wells",
+    "price": 11.99,
+    "category": "Science Fiction",
+    "description": "Victorian time travel.",
+    "stock": 48,
+    "image": "\ud83d\udcd9"
+  },
+  {
+    "id": 61,
+    "title": "Slaughterhouse-Five",
+    "author": "Kurt Vonnegut",
+    "price": 14.99,
+    "category": "Science Fiction",
+    "description": "Time-traveling Billy Pilgrim.",
+    "stock": 51,
+    "image": "\ud83d\udcd5"
+  },
+  {
+    "id": 62,
+    "title": "Ready Player One",
+    "author": "Ernest Cline",
+    "price": 15.99,
+    "category": "Science Fiction",
+    "description": "VR treasure hunt.",
+    "stock": 62,
+    "image": "\ud83d\udcd7"
+  },
+  {
+    "id": 63,
+    "title": "Altered Carbon",
+    "author": "Richard K. Morgan",
+    "price": 14.99,
+    "category": "Science Fiction",
+    "description": "Consciousness transfer.",
+    "stock": 45,
+    "image": "\ud83d\udcd8"
+  },
+  {
+    "id": 64,
+    "title": "The Expanse: Leviathan Wakes",
+    "author": "James S.A. Corey",
+    "price": 16.99,
+    "category": "Science Fiction",
+    "description": "Detective ship captain.",
+    "stock": 53,
+    "image": "\ud83d\udcd9"
+  },
+  {
+    "id": 65,
+    "title": "Ancillary Justice",
+    "author": "Ann Leckie",
+    "price": 15.49,
+    "category": "Science Fiction",
+    "description": "AI seeks revenge.",
+    "stock": 41,
+    "image": "\ud83d\udcd5"
+  },
+  {
+    "id": 66,
+    "title": "The Fifth Season",
+    "author": "N.K. Jemisin",
+    "price": 16.99,
+    "category": "Science Fiction",
+    "description": "Apocalyptic earth powers.",
+    "stock": 47,
+    "image": "\ud83d\udcd7"
+  },
+  {
+    "id": 67,
+    "title": "Old Man's War",
+    "author": "John Scalzi",
+    "price": 14.49,
+    "category": "Science Fiction",
+    "description": "Elderly interstellar military.",
+    "stock": 49,
+    "image": "\ud83d\udcd8"
+  },
+  {
+    "id": 68,
+    "title": "Seveneves",
+    "author": "Neal Stephenson",
+    "price": 18.99,
+    "category": "Science Fiction",
+    "description": "Escape dying Earth.",
+    "stock": 38,
+    "image": "\ud83d\udcd9"
+  },
+  {
+    "id": 69,
+    "title": "Contact",
+    "author": "Carl Sagan",
+    "price": 15.99,
+    "category": "Science Fiction",
+    "description": "First contact with aliens.",
+    "stock": 43,
+    "image": "\ud83d\udcd5"
+  },
+  {
+    "id": 70,
+    "title": "The War of the Worlds",
+    "author": "H.G. Wells",
+    "price": 12.49,
+    "category": "Science Fiction",
+    "description": "Martian invasion of Earth.",
+    "stock": 45,
+    "image": "\ud83d\udcd7"
+  },
+  {
+    "id": 71,
+    "title": "The Hobbit",
+    "author": "J.R.R. Tolkien",
+    "price": 15.99,
+    "category": "Fantasy",
+    "description": "Bilbo Baggins adventure.",
+    "stock": 55,
+    "image": "\ud83d\udcd5"
+  },
+  {
+    "id": 72,
+    "title": "Harry Potter and the Sorcerer's Stone",
+    "author": "J.K. Rowling",
+    "price": 16.99,
+    "category": "Fantasy",
+    "description": "Boy wizard discovers magic.",
+    "stock": 65,
+    "image": "\ud83d\udcd7"
+  },
+  {
+    "id": 73,
+    "title": "The Name of the Wind",
+    "author": "Patrick Rothfuss",
+    "price": 17.99,
+    "category": "Fantasy",
+    "description": "Legendary hero life story.",
+    "stock": 43,
+    "image": "\ud83d\udcd8"
+  },
+  {
+    "id": 74,
+    "title": "A Game of Thrones",
+    "author": "George R.R. Martin",
+    "price": 18.99,
+    "category": "Fantasy",
+    "description": "Political medieval fantasy.",
+    "stock": 58,
+    "image": "\ud83d\udcd9"
+  },
+  {
+    "id": 75,
+    "title": "The Way of Kings",
+    "author": "Brandon Sanderson",
+    "price": 19.99,
+    "category": "Fantasy",
+    "description": "Epic unique magic.",
+    "stock": 47,
+    "image": "\ud83d\udcd5"
+  },
+  {
+    "id": 76,
+    "title": "The Fellowship of the Ring",
+    "author": "J.R.R. Tolkien",
+    "price": 17.99,
+    "category": "Fantasy",
+    "description": "Epic Lord of the Rings.",
+    "stock": 52,
+    "image": "\ud83d\udcd7"
+  },
+  {
+    "id": 77,
+    "title": "The Final Empire",
+    "author": "Brandon Sanderson",
+    "price": 16.99,
+    "category": "Fantasy",
+    "description": "Thieves overthrow emperor.",
+    "stock": 49,
+    "image": "\ud83d\udcd8"
+  },
+  {
+    "id": 78,
+    "title": "The Eye of the World",
+    "author": "Robert Jordan",
+    "price": 18.49,
+    "category": "Fantasy",
+    "description": "Wheel of Time begins.",
+    "stock": 45,
+    "image": "\ud83d\udcd9"
+  },
+  {
+    "id": 79,
+    "title": "American Gods",
+    "author": "Neil Gaiman",
+    "price": 16.99,
+    "category": "Fantasy",
+    "description": "Old gods vs new.",
+    "stock": 51,
+    "image": "\ud83d\udcd5"
+  },
+  {
+    "id": 80,
+    "title": "The Lies of Locke Lamora",
+    "author": "Scott Lynch",
+    "price": 15.99,
+    "category": "Fantasy",
+    "description": "Con artists fantasy Venice.",
+    "stock": 42,
+    "image": "\ud83d\udcd7"
+  },
+  {
+    "id": 81,
+    "title": "The Blade Itself",
+    "author": "Joe Abercrombie",
+    "price": 16.49,
+    "category": "Fantasy",
+    "description": "Grimdark morally gray.",
+    "stock": 40,
+    "image": "\ud83d\udcd8"
+  },
+  {
+    "id": 82,
+    "title": "Assassin's Apprentice",
+    "author": "Robin Hobb",
+    "price": 15.49,
+    "category": "Fantasy",
+    "description": "Royal bastard assassin.",
+    "stock": 44,
+    "image": "\ud83d\udcd9"
+  },
+  {
+    "id": 83,
+    "title": "The Poppy War",
+    "author": "R.F. Kuang",
+    "price": 17.99,
+    "category": "Fantasy",
+    "description": "Chinese history fantasy.",
+    "stock": 38,
+    "image": "\ud83d\udcd5"
+  },
+  {
+    "id": 84,
+    "title": "Gardens of the Moon",
+    "author": "Steven Erikson",
+    "price": 18.99,
+    "category": "Fantasy",
+    "description": "Military fantasy epic.",
+    "stock": 35,
+    "image": "\ud83d\udcd7"
+  },
+  {
+    "id": 85,
+    "title": "The Bear and the Nightingale",
+    "author": "Katherine Arden",
+    "price": 15.99,
+    "category": "Fantasy",
+    "description": "Russian folklore fantasy.",
+    "stock": 46,
+    "image": "\ud83d\udcd8"
+  },
+  {
+    "id": 86,
+    "title": "Circe",
+    "author": "Madeline Miller",
+    "price": 16.99,
+    "category": "Fantasy",
+    "description": "Greek goddess retelling.",
+    "stock": 53,
+    "image": "\ud83d\udcd9"
+  },
+  {
+    "id": 87,
+    "title": "The Ocean at the End of the Lane",
+    "author": "Neil Gaiman",
+    "price": 14.99,
+    "category": "Fantasy",
+    "description": "Dark fairy tale.",
+    "stock": 48,
+    "image": "\ud83d\udcd5"
+  },
+  {
+    "id": 88,
+    "title": "Uprooted",
+    "author": "Naomi Novik",
+    "price": 15.99,
+    "category": "Fantasy",
+    "description": "Apprenticed to sorcerer.",
+    "stock": 44,
+    "image": "\ud83d\udcd7"
+  },
+  {
+    "id": 89,
+    "title": "The Priory of the Orange Tree",
+    "author": "Samantha Shannon",
+    "price": 19.99,
+    "category": "Fantasy",
+    "description": "Epic standalone dragons.",
+    "stock": 41,
+    "image": "\ud83d\udcd8"
+  },
+  {
+    "id": 90,
+    "title": "Good Omens",
+    "author": "Neil Gaiman & Terry Pratchett",
+    "price": 15.49,
+    "category": "Fantasy",
+    "description": "Comic apocalypse.",
+    "stock": 56,
+    "image": "\ud83d\udcd9"
+  },
+  {
+    "id": 91,
+    "title": "Jonathan Strange & Mr Norrell",
+    "author": "Susanna Clarke",
+    "price": 18.99,
+    "category": "Fantasy",
+    "description": "Magic in 19th century England.",
+    "stock": 39,
+    "image": "\ud83d\udcd5"
+  },
+  {
+    "id": 92,
+    "title": "Words of Radiance",
+    "author": "Brandon Sanderson",
+    "price": 20.99,
+    "category": "Fantasy",
+    "description": "Stormlight Archive book 2.",
+    "stock": 43,
+    "image": "\ud83d\udcd7"
+  },
+  {
+    "id": 93,
+    "title": "Prince of Thorns",
+    "author": "Mark Lawrence",
+    "price": 15.99,
+    "category": "Fantasy",
+    "description": "Dark fantasy antihero.",
+    "stock": 37,
+    "image": "\ud83d\udcd8"
+  },
+  {
+    "id": 94,
+    "title": "The City of Brass",
+    "author": "S.A. Chakraborty",
+    "price": 17.49,
+    "category": "Fantasy",
+    "description": "Middle Eastern fantasy.",
+    "stock": 42,
+    "image": "\ud83d\udcd9"
+  },
+  {
+    "id": 95,
+    "title": "Warbreaker",
+    "author": "Brandon Sanderson",
+    "price": 16.99,
+    "category": "Fantasy",
+    "description": "Color-based magic.",
+    "stock": 45,
+    "image": "\ud83d\udcd5"
+  },
+  {
+    "id": 96,
+    "title": "The Once and Future King",
+    "author": "T.H. White",
+    "price": 15.99,
+    "category": "Fantasy",
+    "description": "King Arthur retelling.",
+    "stock": 40,
+    "image": "\ud83d\udcd7"
+  },
+  {
+    "id": 97,
+    "title": "Elantris",
+    "author": "Brandon Sanderson",
+    "price": 15.49,
+    "category": "Fantasy",
+    "description": "Fallen magical city.",
+    "stock": 38,
+    "image": "\ud83d\udcd8"
+  },
+  {
+    "id": 98,
+    "title": "The Golem and the Jinni",
+    "author": "Helene Wecker",
+    "price": 16.99,
+    "category": "Fantasy",
+    "description": "1899 New York magic.",
+    "stock": 44,
+    "image": "\ud83d\udcd9"
+  },
+  {
+    "id": 99,
+    "title": "The Sword of Shannara",
+    "author": "Terry Brooks",
+    "price": 14.99,
+    "category": "Fantasy",
+    "description": "Classic epic fantasy quest.",
+    "stock": 41,
+    "image": "\ud83d\udcd5"
+  },
+  {
+    "id": 100,
+    "title": "The Black Prism",
+    "author": "Brent Weeks",
+    "price": 17.49,
+    "category": "Fantasy",
+    "description": "Color-based magic system.",
+    "stock": 39,
+    "image": "\ud83d\udcd7"
+  },
+  {
+    "id": 101,
+    "title": "The Girl with the Dragon Tattoo",
+    "author": "Stieg Larsson",
+    "price": 15.99,
+    "category": "Mystery",
+    "description": "Swedish mystery thriller.",
+    "stock": 51,
+    "image": "\ud83d\udcd5"
+  },
+  {
+    "id": 102,
+    "title": "Gone Girl",
+    "author": "Gillian Flynn",
+    "price": 14.99,
+    "category": "Mystery",
+    "description": "Psychological thriller marriage.",
+    "stock": 46,
+    "image": "\ud83d\udcd7"
+  },
+  {
+    "id": 103,
+    "title": "The Da Vinci Code",
+    "author": "Dan Brown",
+    "price": 16.49,
+    "category": "Mystery",
+    "description": "Religious conspiracy thriller.",
+    "stock": 54,
+    "image": "\ud83d\udcd8"
+  },
+  {
+    "id": 104,
+    "title": "Big Little Lies",
+    "author": "Liane Moriarty",
+    "price": 13.99,
+    "category": "Mystery",
+    "description": "School murder mystery.",
+    "stock": 41,
+    "image": "\ud83d\udcd9"
+  },
+  {
+    "id": 105,
+    "title": "The Silent Patient",
+    "author": "Alex Michaelides",
+    "price": 14.99,
+    "category": "Mystery",
+    "description": "Woman stops speaking.",
+    "stock": 49,
+    "image": "\ud83d\udcd5"
+  },
+  {
+    "id": 106,
+    "title": "In the Woods",
+    "author": "Tana French",
+    "price": 15.49,
+    "category": "Mystery",
+    "description": "Detective Irish woods.",
+    "stock": 43,
+    "image": "\ud83d\udcd7"
+  },
+  {
+    "id": 107,
+    "title": "The Cuckoo's Calling",
+    "author": "Robert Galbraith",
+    "price": 14.99,
+    "category": "Mystery",
+    "description": "Private detective investigation.",
+    "stock": 47,
+    "image": "\ud83d\udcd8"
+  },
+  {
+    "id": 108,
+    "title": "Sharp Objects",
+    "author": "Gillian Flynn",
+    "price": 13.99,
+    "category": "Mystery",
+    "description": "Reporter hometown murder.",
+    "stock": 44,
+    "image": "\ud83d\udcd9"
+  },
+  {
+    "id": 109,
+    "title": "The Woman in the Window",
+    "author": "A.J. Finn",
+    "price": 15.99,
+    "category": "Mystery",
+    "description": "Agoraphobic witnesses crime.",
+    "stock": 42,
+    "image": "\ud83d\udcd5"
+  },
+  {
+    "id": 110,
+    "title": "And Then There Were None",
+    "author": "Agatha Christie",
+    "price": 12.99,
+    "category": "Mystery",
+    "description": "Ten strangers trapped island.",
+    "stock": 56,
+    "image": "\ud83d\udcd7"
+  },
+  {
+    "id": 111,
+    "title": "Murder on the Orient Express",
+    "author": "Agatha Christie",
+    "price": 13.49,
+    "category": "Mystery",
+    "description": "Poirot train murder.",
+    "stock": 52,
+    "image": "\ud83d\udcd8"
+  },
+  {
+    "id": 112,
+    "title": "The Girl on the Train",
+    "author": "Paula Hawkins",
+    "price": 14.99,
+    "category": "Mystery",
+    "description": "Woman witnesses from train.",
+    "stock": 48,
+    "image": "\ud83d\udcd9"
+  },
+  {
+    "id": 113,
+    "title": "Before I Go to Sleep",
+    "author": "S.J. Watson",
+    "price": 13.99,
+    "category": "Mystery",
+    "description": "Woman with amnesia.",
+    "stock": 45,
+    "image": "\ud83d\udcd5"
+  },
+  {
+    "id": 114,
+    "title": "The Snowman",
+    "author": "Jo Nesb\u00f8",
+    "price": 15.49,
+    "category": "Mystery",
+    "description": "Detective hunts serial killer.",
+    "stock": 41,
+    "image": "\ud83d\udcd7"
+  },
+  {
+    "id": 115,
+    "title": "The Dry",
+    "author": "Jane Harper",
+    "price": 14.99,
+    "category": "Mystery",
+    "description": "Detective drought hometown.",
+    "stock": 46,
+    "image": "\ud83d\udcd8"
+  },
+  {
+    "id": 116,
+    "title": "Still Life",
+    "author": "Louise Penny",
+    "price": 13.99,
+    "category": "Mystery",
+    "description": "Inspector Gamache mystery.",
+    "stock": 47,
+    "image": "\ud83d\udcd9"
+  },
+  {
+    "id": 117,
+    "title": "The Guest List",
+    "author": "Lucy Foley",
+    "price": 14.99,
+    "category": "Mystery",
+    "description": "Wedding turns deadly.",
+    "stock": 50,
+    "image": "\ud83d\udcd5"
+  },
+  {
+    "id": 118,
+    "title": "The 7\u00bd Deaths of Evelyn Hardcastle",
+    "author": "Stuart Turton",
+    "price": 16.99,
+    "category": "Mystery",
+    "description": "Groundhog Day mystery.",
+    "stock": 43,
+    "image": "\ud83d\udcd7"
+  },
+  {
+    "id": 119,
+    "title": "Rebecca",
+    "author": "Daphne du Maurier",
+    "price": 13.49,
+    "category": "Mystery",
+    "description": "Gothic Manderley mystery.",
+    "stock": 48,
+    "image": "\ud83d\udcd8"
+  },
+  {
+    "id": 120,
+    "title": "The Hunting Party",
+    "author": "Lucy Foley",
+    "price": 14.49,
+    "category": "Mystery",
+    "description": "New Year murder mystery.",
+    "stock": 44,
+    "image": "\ud83d\udcd9"
+  },
+  {
+    "id": 121,
+    "title": "Dark Places",
+    "author": "Gillian Flynn",
+    "price": 14.99,
+    "category": "Mystery",
+    "description": "Family massacre investigation.",
+    "stock": 42,
+    "image": "\ud83d\udcd5"
+  },
+  {
+    "id": 122,
+    "title": "The Kind Worth Killing",
+    "author": "Peter Swanson",
+    "price": 15.49,
+    "category": "Mystery",
+    "description": "Strangers plot murder.",
+    "stock": 40,
+    "image": "\ud83d\udcd7"
+  },
+  {
+    "id": 123,
+    "title": "Into the Water",
+    "author": "Paula Hawkins",
+    "price": 14.99,
+    "category": "Mystery",
+    "description": "River with dark history.",
+    "stock": 45,
+    "image": "\ud83d\udcd8"
+  },
+  {
+    "id": 124,
+    "title": "The Reversal",
+    "author": "Michael Connelly",
+    "price": 15.99,
+    "category": "Mystery",
+    "description": "Defense attorney prosecutes.",
+    "stock": 40,
+    "image": "\ud83d\udcd9"
+  },
+  {
+    "id": 125,
+    "title": "The Poet",
+    "author": "Michael Connelly",
+    "price": 15.99,
+    "category": "Mystery",
+    "description": "Reporter investigates death.",
+    "stock": 39,
+    "image": "\ud83d\udcd5"
+  },
+  {
+    "id": 126,
+    "title": "Pride and Prejudice",
+    "author": "Jane Austen",
+    "price": 11.99,
+    "category": "Romance",
+    "description": "Elizabeth Bennet and Mr. Darcy.",
+    "stock": 40,
+    "image": "\ud83d\udcd5"
+  },
+  {
+    "id": 127,
+    "title": "Outlander",
+    "author": "Diana Gabaldon",
+    "price": 17.99,
+    "category": "Romance",
+    "description": "Time-travel Scotland romance.",
+    "stock": 45,
+    "image": "\ud83d\udcd7"
+  },
+  {
+    "id": 128,
+    "title": "The Notebook",
+    "author": "Nicholas Sparks",
+    "price": 12.99,
+    "category": "Romance",
+    "description": "Timeless love story.",
+    "stock": 52,
+    "image": "\ud83d\udcd8"
+  },
+  {
+    "id": 129,
+    "title": "Me Before You",
+    "author": "Jojo Moyes",
+    "price": 13.99,
+    "category": "Romance",
+    "description": "Caregiver quadriplegic love.",
+    "stock": 48,
+    "image": "\ud83d\udcd9"
+  },
+  {
+    "id": 130,
+    "title": "The Hating Game",
+    "author": "Sally Thorne",
+    "price": 12.49,
+    "category": "Romance",
+    "description": "Enemies-to-lovers office.",
+    "stock": 44,
+    "image": "\ud83d\udcd5"
+  },
+  {
+    "id": 131,
+    "title": "Red, White & Royal Blue",
+    "author": "Casey McQuiston",
+    "price": 14.99,
+    "category": "Romance",
+    "description": "President son British prince.",
+    "stock": 51,
+    "image": "\ud83d\udcd7"
+  },
+  {
+    "id": 132,
+    "title": "The Kiss Quotient",
+    "author": "Helen Hoang",
+    "price": 13.99,
+    "category": "Romance",
+    "description": "Woman hires escort.",
+    "stock": 46,
+    "image": "\ud83d\udcd8"
+  },
+  {
+    "id": 133,
+    "title": "Beach Read",
+    "author": "Emily Henry",
+    "price": 14.49,
+    "category": "Romance",
+    "description": "Romance writers challenge.",
+    "stock": 49,
+    "image": "\ud83d\udcd9"
+  },
+  {
+    "id": 134,
+    "title": "The Flatshare",
+    "author": "Beth O'Leary",
+    "price": 13.99,
+    "category": "Romance",
+    "description": "Strangers share apartment.",
+    "stock": 43,
+    "image": "\ud83d\udcd5"
+  },
+  {
+    "id": 135,
+    "title": "It Ends with Us",
+    "author": "Colleen Hoover",
+    "price": 14.99,
+    "category": "Romance",
+    "description": "Love story dealing abuse.",
+    "stock": 55,
+    "image": "\ud83d\udcd7"
+  },
+  {
+    "id": 136,
+    "title": "The Rosie Project",
+    "author": "Graeme Simsion",
+    "price": 13.49,
+    "category": "Romance",
+    "description": "Professor seeks wife.",
+    "stock": 42,
+    "image": "\ud83d\udcd8"
+  },
+  {
+    "id": 137,
+    "title": "Eleanor & Park",
+    "author": "Rainbow Rowell",
+    "price": 12.99,
+    "category": "Romance",
+    "description": "Young adult 1986.",
+    "stock": 47,
+    "image": "\ud83d\udcd9"
+  },
+  {
+    "id": 138,
+    "title": "The Time Traveler's Wife",
+    "author": "Audrey Niffenegger",
+    "price": 15.99,
+    "category": "Romance",
+    "description": "Love complicated time travel.",
+    "stock": 44,
+    "image": "\ud83d\udcd5"
+  },
+  {
+    "id": 139,
+    "title": "Jane Eyre",
+    "author": "Charlotte Bront\u00eb",
+    "price": 12.49,
+    "category": "Romance",
+    "description": "Gothic romance criticism.",
+    "stock": 38,
+    "image": "\ud83d\udcd7"
+  },
+  {
+    "id": 140,
+    "title": "Wuthering Heights",
+    "author": "Emily Bront\u00eb",
+    "price": 11.99,
+    "category": "Romance",
+    "description": "Passionate destructive love.",
+    "stock": 36,
+    "image": "\ud83d\udcd8"
+  },
+  {
+    "id": 141,
+    "title": "People We Meet on Vacation",
+    "author": "Emily Henry",
+    "price": 14.99,
+    "category": "Romance",
+    "description": "Best friends trip.",
+    "stock": 50,
+    "image": "\ud83d\udcd9"
+  },
+  {
+    "id": 142,
+    "title": "The Wedding Date",
+    "author": "Jasmine Guillory",
+    "price": 13.99,
+    "category": "Romance",
+    "description": "Fake relationship real.",
+    "stock": 45,
+    "image": "\ud83d\udcd5"
+  },
+  {
+    "id": 143,
+    "title": "Book Lovers",
+    "author": "Emily Henry",
+    "price": 15.49,
+    "category": "Romance",
+    "description": "Literary agent editor.",
+    "stock": 48,
+    "image": "\ud83d\udcd7"
+  },
+  {
+    "id": 144,
+    "title": "The Spanish Love Deception",
+    "author": "Elena Armas",
+    "price": 14.99,
+    "category": "Romance",
+    "description": "Fake dating wedding.",
+    "stock": 46,
+    "image": "\ud83d\udcd8"
+  },
+  {
+    "id": 145,
+    "title": "One Day",
+    "author": "David Nicholls",
+    "price": 14.49,
+    "category": "Romance",
+    "description": "Twenty years one day.",
+    "stock": 41,
+    "image": "\ud83d\udcd9"
+  },
+  {
+    "id": 146,
+    "title": "Sapiens",
+    "author": "Yuval Noah Harari",
+    "price": 18.99,
+    "category": "Non-Fiction",
+    "description": "Brief history of humankind.",
+    "stock": 62,
+    "image": "\ud83d\udcda"
+  },
+  {
+    "id": 147,
+    "title": "Educated",
+    "author": "Tara Westover",
+    "price": 16.99,
+    "category": "Non-Fiction",
+    "description": "Memoir self-education family.",
+    "stock": 56,
+    "image": "\ud83d\udcd7"
+  },
+  {
+    "id": 148,
+    "title": "Thinking, Fast and Slow",
+    "author": "Daniel Kahneman",
+    "price": 17.99,
+    "category": "Non-Fiction",
+    "description": "Two systems of thinking.",
+    "stock": 47,
+    "image": "\ud83d\udcd8"
+  },
+  {
+    "id": 149,
+    "title": "The Immortal Life of Henrietta Lacks",
+    "author": "Rebecca Skloot",
+    "price": 15.99,
+    "category": "Non-Fiction",
+    "description": "Revolutionary medical cells.",
+    "stock": 43,
+    "image": "\ud83d\udcd9"
+  },
+  {
+    "id": 150,
+    "title": "Atomic Habits",
+    "author": "James Clear",
+    "price": 16.99,
+    "category": "Non-Fiction",
+    "description": "Building good habits.",
+    "stock": 68,
+    "image": "\ud83d\udcd5"
+  },
+  {
+    "id": 151,
+    "title": "Homo Deus",
+    "author": "Yuval Noah Harari",
+    "price": 19.99,
+    "category": "Non-Fiction",
+    "description": "Brief history tomorrow.",
+    "stock": 51,
+    "image": "\ud83d\udcda"
+  },
+  {
+    "id": 152,
+    "title": "The Power of Habit",
+    "author": "Charles Duhigg",
+    "price": 16.49,
+    "category": "Non-Fiction",
+    "description": "Why we do what we do.",
+    "stock": 54,
+    "image": "\ud83d\udcd8"
+  },
+  {
+    "id": 153,
+    "title": "Quiet",
+    "author": "Susan Cain",
+    "price": 15.99,
+    "category": "Non-Fiction",
+    "description": "Power of introverts.",
+    "stock": 49,
+    "image": "\ud83d\udcd9"
+  },
+  {
+    "id": 154,
+    "title": "Bad Blood",
+    "author": "John Carreyrou",
+    "price": 17.99,
+    "category": "Non-Fiction",
+    "description": "Silicon Valley secrets.",
+    "stock": 44,
+    "image": "\ud83d\udcd5"
+  },
+  {
+    "id": 155,
+    "title": "When Breath Becomes Air",
+    "author": "Paul Kalanithi",
+    "price": 15.99,
+    "category": "Non-Fiction",
+    "description": "Neurosurgeon facing death.",
+    "stock": 48,
+    "image": "\ud83d\udcd7"
+  },
+  {
+    "id": 156,
+    "title": "The Lean Startup",
+    "author": "Eric Ries",
+    "price": 17.49,
+    "category": "Non-Fiction",
+    "description": "Entrepreneurs use innovation.",
+    "stock": 46,
+    "image": "\ud83d\udcda"
+  },
+  {
+    "id": 157,
+    "title": "Freakonomics",
+    "author": "Steven D. Levitt",
+    "price": 15.99,
+    "category": "Non-Fiction",
+    "description": "Rogue economist explores.",
+    "stock": 50,
+    "image": "\ud83d\udcd9"
+  },
+  {
+    "id": 158,
+    "title": "The Wright Brothers",
+    "author": "David McCullough",
+    "price": 16.99,
+    "category": "Non-Fiction",
+    "description": "Aviation pioneers story.",
+    "stock": 41,
+    "image": "\ud83d\udcd5"
+  },
+  {
+    "id": 159,
+    "title": "Born to Run",
+    "author": "Christopher McDougall",
+    "price": 15.49,
+    "category": "Non-Fiction",
+    "description": "Hidden tribe running.",
+    "stock": 45,
+    "image": "\ud83d\udcd7"
+  },
+  {
+    "id": 160,
+    "title": "The Gene",
+    "author": "Siddhartha Mukherjee",
+    "price": 18.99,
+    "category": "Non-Fiction",
+    "description": "Intimate history genetics.",
+    "stock": 39,
+    "image": "\ud83d\udcd8"
+  },
+  {
+    "id": 161,
+    "title": "Outliers",
+    "author": "Malcolm Gladwell",
+    "price": 16.99,
+    "category": "Non-Fiction",
+    "description": "Story of success.",
+    "stock": 52,
+    "image": "\ud83d\udcda"
+  },
+  {
+    "id": 162,
+    "title": "The Emperor of All Maladies",
+    "author": "Siddhartha Mukherjee",
+    "price": 19.99,
+    "category": "Non-Fiction",
+    "description": "Biography of cancer.",
+    "stock": 38,
+    "image": "\ud83d\udcd5"
+  },
+  {
+    "id": 163,
+    "title": "Shoe Dog",
+    "author": "Phil Knight",
+    "price": 17.99,
+    "category": "Non-Fiction",
+    "description": "Nike creator memoir.",
+    "stock": 55,
+    "image": "\ud83d\udcd7"
+  },
+  {
+    "id": 164,
+    "title": "The Soul of an Octopus",
+    "author": "Sy Montgomery",
+    "price": 15.99,
+    "category": "Non-Fiction",
+    "description": "Exploration of consciousness.",
+    "stock": 42,
+    "image": "\ud83d\udcd8"
+  },
+  {
+    "id": 165,
+    "title": "The Body Keeps the Score",
+    "author": "Bessel van der Kolk",
+    "price": 18.99,
+    "category": "Non-Fiction",
+    "description": "Brain healing trauma.",
+    "stock": 51,
+    "image": "\ud83d\udcd9"
+  },
+  {
+    "id": 166,
+    "title": "Steve Jobs",
+    "author": "Walter Isaacson",
+    "price": 19.99,
+    "category": "Biography",
+    "description": "Apple co-founder biography.",
+    "stock": 50,
+    "image": "\ud83d\udcda"
+  },
+  {
+    "id": 167,
+    "title": "Becoming",
+    "author": "Michelle Obama",
+    "price": 18.99,
+    "category": "Biography",
+    "description": "Former First Lady memoir.",
+    "stock": 64,
+    "image": "\ud83d\udcd7"
+  },
+  {
+    "id": 168,
+    "title": "The Diary of a Young Girl",
+    "author": "Anne Frank",
+    "price": 12.99,
+    "category": "Biography",
+    "description": "Holocaust diary.",
+    "stock": 55,
+    "image": "\ud83d\udcd8"
+  },
+  {
+    "id": 169,
+    "title": "Long Walk to Freedom",
+    "author": "Nelson Mandela",
+    "price": 17.99,
+    "category": "Biography",
+    "description": "Anti-apartheid leader.",
+    "stock": 42,
+    "image": "\ud83d\udcd9"
+  },
+  {
+    "id": 170,
+    "title": "Born a Crime",
+    "author": "Trevor Noah",
+    "price": 15.99,
+    "category": "Biography",
+    "description": "Apartheid South Africa.",
+    "stock": 53,
+    "image": "\ud83d\udcd5"
+  },
+  {
+    "id": 171,
+    "title": "Unbroken",
+    "author": "Laura Hillenbrand",
+    "price": 16.99,
+    "category": "Biography",
+    "description": "WWII survival story.",
+    "stock": 47,
+    "image": "\ud83d\udcda"
+  },
+  {
+    "id": 172,
+    "title": "The Glass Castle",
+    "author": "Jeannette Walls",
+    "price": 14.99,
+    "category": "Biography",
+    "description": "Unconventional upbringing.",
+    "stock": 49,
+    "image": "\ud83d\udcd8"
+  },
+  {
+    "id": 173,
+    "title": "Einstein: His Life and Universe",
+    "author": "Walter Isaacson",
+    "price": 18.99,
+    "category": "Biography",
+    "description": "Genius physicist.",
+    "stock": 41,
+    "image": "\ud83d\udcd9"
+  },
+  {
+    "id": 174,
+    "title": "Alexander Hamilton",
+    "author": "Ron Chernow",
+    "price": 19.99,
+    "category": "Biography",
+    "description": "Founding father biography.",
+    "stock": 44,
+    "image": "\ud83d\udcd5"
+  },
+  {
+    "id": 175,
+    "title": "The Autobiography of Malcolm X",
+    "author": "Malcolm X",
+    "price": 15.99,
+    "category": "Biography",
+    "description": "Civil rights leader.",
+    "stock": 46,
+    "image": "\ud83d\udcd7"
+  },
+  {
+    "id": 176,
+    "title": "I Am Malala",
+    "author": "Malala Yousafzai",
+    "price": 14.99,
+    "category": "Biography",
+    "description": "Girl stood for education.",
+    "stock": 52,
+    "image": "\ud83d\udcda"
+  },
+  {
+    "id": 177,
+    "title": "Wild",
+    "author": "Cheryl Strayed",
+    "price": 15.49,
+    "category": "Biography",
+    "description": "Hiking Pacific Crest Trail.",
+    "stock": 48,
+    "image": "\ud83d\udcd9"
+  },
+  {
+    "id": 178,
+    "title": "Benjamin Franklin",
+    "author": "Walter Isaacson",
+    "price": 18.49,
+    "category": "Biography",
+    "description": "American polymath life.",
+    "stock": 40,
+    "image": "\ud83d\udcd5"
+  },
+  {
+    "id": 179,
+    "title": "Yes Please",
+    "author": "Amy Poehler",
+    "price": 14.99,
+    "category": "Biography",
+    "description": "Comedian honest memoir.",
+    "stock": 45,
+    "image": "\ud83d\udcd7"
+  },
+  {
+    "id": 180,
+    "title": "Open",
+    "author": "Andre Agassi",
+    "price": 16.99,
+    "category": "Biography",
+    "description": "Tennis legend autobiography.",
+    "stock": 38,
+    "image": "\ud83d\udcd8"
+  },
+  {
+    "id": 181,
+    "title": "A People's History of the United States",
+    "author": "Howard Zinn",
+    "price": 18.99,
+    "category": "History",
+    "description": "American history from below.",
+    "stock": 45,
+    "image": "\ud83d\udcda"
+  },
+  {
+    "id": 182,
+    "title": "Guns, Germs, and Steel",
+    "author": "Jared Diamond",
+    "price": 17.99,
+    "category": "History",
+    "description": "Fates of human societies.",
+    "stock": 48,
+    "image": "\ud83d\udcd7"
+  },
+  {
+    "id": 183,
+    "title": "The Silk Roads",
+    "author": "Peter Frankopan",
+    "price": 19.99,
+    "category": "History",
+    "description": "New history of world.",
+    "stock": 41,
+    "image": "\ud83d\udcd8"
+  },
+  {
+    "id": 184,
+    "title": "SPQR",
+    "author": "Mary Beard",
+    "price": 18.49,
+    "category": "History",
+    "description": "History of Ancient Rome.",
+    "stock": 39,
+    "image": "\ud83d\udcd9"
+  },
+  {
+    "id": 185,
+    "title": "Team of Rivals",
+    "author": "Doris Kearns Goodwin",
+    "price": 19.99,
+    "category": "History",
+    "description": "Lincoln political genius.",
+    "stock": 44,
+    "image": "\ud83d\udcd5"
+  },
+  {
+    "id": 186,
+    "title": "1491",
+    "author": "Charles C. Mann",
+    "price": 17.99,
+    "category": "History",
+    "description": "Americas before Columbus.",
+    "stock": 42,
+    "image": "\ud83d\udcda"
+  },
+  {
+    "id": 187,
+    "title": "The Warmth of Other Suns",
+    "author": "Isabel Wilkerson",
+    "price": 18.99,
+    "category": "History",
+    "description": "Epic Great Migration.",
+    "stock": 47,
+    "image": "\ud83d\udcd8"
+  },
+  {
+    "id": 188,
+    "title": "The Devil in the White City",
+    "author": "Erik Larson",
+    "price": 16.99,
+    "category": "History",
+    "description": "Murder 1893 World Fair.",
+    "stock": 51,
+    "image": "\ud83d\udcd9"
+  },
+  {
+    "id": 189,
+    "title": "A Short History of Nearly Everything",
+    "author": "Bill Bryson",
+    "price": 17.49,
+    "category": "History",
+    "description": "Science for layperson.",
+    "stock": 54,
+    "image": "\ud83d\udcd5"
+  },
+  {
+    "id": 190,
+    "title": "The Sixth Extinction",
+    "author": "Elizabeth Kolbert",
+    "price": 16.99,
+    "category": "History",
+    "description": "Unnatural history.",
+    "stock": 43,
+    "image": "\ud83d\udcd7"
+  },
+  {
+    "id": 191,
+    "title": "The 7 Habits of Highly Effective People",
+    "author": "Stephen Covey",
+    "price": 16.99,
+    "category": "Self-Help",
+    "description": "Timeless effectiveness principles.",
+    "stock": 70,
+    "image": "\ud83d\udcda"
+  },
+  {
+    "id": 192,
+    "title": "How to Win Friends and Influence People",
+    "author": "Dale Carnegie",
+    "price": 14.99,
+    "category": "Self-Help",
+    "description": "Classic relationship guide.",
+    "stock": 65,
+    "image": "\ud83d\udcda"
+  },
+  {
+    "id": 193,
+    "title": "The Power of Now",
+    "author": "Eckhart Tolle",
+    "price": 15.99,
+    "category": "Self-Help",
+    "description": "Spiritual enlightenment guide.",
+    "stock": 58,
+    "image": "\ud83d\udcda"
+  },
+  {
+    "id": 194,
+    "title": "Daring Greatly",
+    "author": "Bren\u00e9 Brown",
+    "price": 16.49,
+    "category": "Self-Help",
+    "description": "Vulnerability and courage.",
+    "stock": 54,
+    "image": "\ud83d\udcda"
+  },
+  {
+    "id": 195,
+    "title": "The Subtle Art of Not Giving a F*ck",
+    "author": "Mark Manson",
+    "price": 15.49,
+    "category": "Self-Help",
+    "description": "Counterintuitive life approach.",
+    "stock": 62,
+    "image": "\ud83d\udcda"
+  },
+  {
+    "id": 196,
+    "title": "Where the Wild Things Are",
+    "author": "Maurice Sendak",
+    "price": 9.99,
+    "category": "Children",
+    "description": "Classic imagination picture book.",
+    "stock": 75,
+    "image": "\ud83d\udcd5"
+  },
+  {
+    "id": 197,
+    "title": "The Very Hungry Caterpillar",
+    "author": "Eric Carle",
+    "price": 8.99,
+    "category": "Children",
+    "description": "Caterpillar transformation.",
+    "stock": 80,
+    "image": "\ud83d\udcd7"
+  },
+  {
+    "id": 198,
+    "title": "Charlotte's Web",
+    "author": "E.B. White",
+    "price": 11.99,
+    "category": "Children",
+    "description": "Friendship pig and spider.",
+    "stock": 68,
+    "image": "\ud83d\udcd8"
+  },
+  {
+    "id": 199,
+    "title": "Matilda",
+    "author": "Roald Dahl",
+    "price": 12.99,
+    "category": "Children",
+    "description": "Brilliant girl telekinetic.",
+    "stock": 72,
+    "image": "\ud83d\udcd9"
+  },
+  {
+    "id": 200,
+    "title": "The Giving Tree",
+    "author": "Shel Silverstein",
+    "price": 10.99,
+    "category": "Children",
+    "description": "Story about selfless love.",
+    "stock": 70,
+    "image": "\ud83d\udcd5"
+  }
+]
